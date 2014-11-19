@@ -1,0 +1,16 @@
+name: BattleBombs
+version: 0.1.2
+main: battlebomb.BattleBomb
+description: BattleBomb
+author: death4457
+depend: [Clockwork, TagAPI, ServerRegistrar]
+commands:
+   join:
+     description: Join the fun
+     usage: /join
+   debug:
+     description: Join the fun
+     usage: /debug
+   kill:
+     description: just a test
+     usage: /kill
